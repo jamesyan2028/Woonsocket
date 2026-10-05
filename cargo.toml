@@ -1,9 +1,0 @@
-[dependencies]
-woonsocket-work = { git = "https://github.com/cs1675/woonsocket-work" }
-clap = { version = "4", features = ["derive"] }
-serde = { version = "1", features = ["derive"] }
-bincode = "1"
-quanta = "0.12"
-rand = "0.8"
-rand_distr = "0.4"
-cargo --version
